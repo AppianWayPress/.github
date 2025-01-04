@@ -20,6 +20,7 @@ We will also release reasonably-priced paperback editions of the translations (n
 
 We're starting small because this is a bit of a complicated project. But we anticipate our initial release to include the following in diglot and epub form as well as paperbacks from Amazon:
 
+* Epiphanius' _Ancoratus_
 * Eusebius' _The Preparation of the Gospel_
 * Eusebius' _The Proof of the Gospel_
 * Eusebius' _History of the Church_
@@ -33,7 +34,11 @@ The diglot and paperback editions of these volumes (so, not the epub editions) w
 * Index of Places
 * Index of Bible References
 
-We anticipate more volumes. We are specifically interested in the non-fragment editions of Origen's commentaries as well as the New Testament catenae.
+We anticipate more volumes. The following volumes are on our "short list" to evaluate:
+
+* Epiphanius’ _Panarion_
+* Theophilus of Antioch’s _Ad Autolycum_
+* Athenagoras’ _On the Resurrection of the Dead_
 
 ## Can works be suggested?
 
