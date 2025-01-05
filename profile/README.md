@@ -20,7 +20,7 @@ We will also release reasonably-priced paperback editions of the translations (n
 
 We're starting small because this is a bit of a complicated project. But we anticipate our initial release to include the following in diglot and epub form as well as paperbacks from Amazon:
 
-* Epiphanius' _Ancoratus_
+* Epiphanius' _The Well-Anchored One_
 * Eusebius' _The Preparation of the Gospel_
 * Eusebius' _The Proof of the Gospel_
 * Eusebius' _History of the Church_
