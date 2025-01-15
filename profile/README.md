@@ -6,6 +6,8 @@ However, there are a tremendous amount of works of early Christianity, valuable 
 
 The Appian Way Press has decided to use tools from the ever-growing field of machine learning (ML) and specifically machine translation (MT), combined with the growing capability of large-language models (LLMs) to attack this problem.
 
+Are you interested in supporting this work? You can do it through [Github Sponsors](https://github.com/sponsors/RickBrannan) or something as simple as [Buy me a Coffee](https://buymeacoffee.com/rickbrannan).
+
 ## What Resources are Available?
 
 The Appian Way Press is using LLMs (specifically `gpt-4o-mini`) to do intitial translations from classical Greek to English. We're starting with editions available from the Open Greek and Latin's [First1KGreek project](https://github.com/opengreekandlatin/First1KGreek), which aims to provide high-quality data for the Greek works of the first millenium. We will initially select resources from this repository to translate and create open, readable English translations and make them available for download.
