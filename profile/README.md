@@ -22,6 +22,11 @@ We will also release reasonably-priced paperback editions of the translations (n
 
 We're starting small because this is a bit of a complicated project. But we anticipate our initial release to include the following in diglot and epub form as well as paperbacks from Amazon:
 
+* [Apocryphal Acts](https://github.com/AppianWayPress/ApocryphalActs)
+  * _Acts of Barnabas_
+  * _Acts of John_
+  * _Acts of Philip_
+  * _Acts of Thomas_ 
 * [Epiphanius](https://github.com/AppianWayPress/Epiphanius)
   * _The Well-Anchored One_
 * [Eusebius](https://github.com/AppianWayPress/Eusebius)
