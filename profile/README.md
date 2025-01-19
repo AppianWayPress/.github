@@ -26,7 +26,9 @@ We're starting small because this is a bit of a complicated project. But we anti
   * _Acts of Barnabas_
   * _Acts of John_
   * _Acts of Philip_
-  * _Acts of Thomas_ 
+  * _Acts of Thomas_
+* [Clement of Alexandria](https://github.com/ClementAlexandria)
+  * _Can the Rich Be Saved?_
 * [Epiphanius](https://github.com/AppianWayPress/Epiphanius)
   * _The Well-Anchored One_
 * [Eusebius](https://github.com/AppianWayPress/Eusebius)
