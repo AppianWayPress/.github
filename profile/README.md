@@ -27,7 +27,7 @@ We're starting small because this is a bit of a complicated project. But we anti
   * _Acts of John_
   * _Acts of Philip_
   * _Acts of Thomas_
-* [Clement of Alexandria](https://github.com/ClementAlexandria)
+* [Clement of Alexandria](https://github.com/AppianWayPress/ClementAlexandria)
   * _Can the Rich Be Saved?_
 * [Clement of Rome](https://github.com/ClementRome)
   * _Pseudo-Clementine Homilies_
