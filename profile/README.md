@@ -29,7 +29,7 @@ We're starting small because this is a bit of a complicated project. But we anti
   * _Acts of Thomas_
 * [Clement of Alexandria](https://github.com/AppianWayPress/ClementAlexandria)
   * _Can the Rich Be Saved?_
-* [Clement of Rome](https://github.com/ClementRome)
+* [Clement of Rome](https://github.com/AppianWayPress/ClementRome)
   * _Pseudo-Clementine Homilies_
 * [Epiphanius](https://github.com/AppianWayPress/Epiphanius)
   * _The Well-Anchored One_
