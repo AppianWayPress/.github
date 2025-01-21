@@ -20,28 +20,28 @@ We will also release reasonably-priced paperback editions of the translations (n
 
 ## What are the books?
 
-We're starting small because this is a bit of a complicated project. But we anticipate our initial release to include the following in diglot and epub form as well as paperbacks from Amazon:
+We're starting small because this is a bit of a complicated project. But we anticipate our initial release to include the following in diglot and epub form. We're considering the possibility of paperbacks from Amazon:
 
 * [Apocryphal Acts](https://github.com/AppianWayPress/ApocryphalActs)
-  * _Acts of Barnabas_
-  * _Acts of John_
-  * _Acts of Philip_
-  * _Acts of Thomas_
+  * _Acts of Barnabas_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/diglot/diglot-ActaBarnabae.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-ActaBarnabae.pdf))
+  * _Acts of John_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/diglot/diglot-ActaJoannis.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-ActaJoannis.pdf))
+  * _Acts of Philip_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/diglot/diglot-ActaPhilippi.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-ActaPhilippi.pdf))
+  * _Acts of Thomas_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/diglot/diglot-ActaThomae.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-ActaThomae.pdf))
 * [Clement of Alexandria](https://github.com/AppianWayPress/ClementAlexandria)
-  * _Can the Rich Be Saved?_
+  * _Can the Rich Be Saved?_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/diglot/diglot-QuisDives.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/epub/epub-QuisDives.pdf))
 * [Clement of Rome](https://github.com/AppianWayPress/ClementRome)
-  * _Pseudo-Clementine Homilies_
+  * _Pseudo-Clementine Homilies_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ClementRome/main/diglot/diglot-Homilies.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ClementRome/main/epub/epub-Homilies.pdf))
 * [Epiphanius](https://github.com/AppianWayPress/Epiphanius)
-  * _The Well-Anchored One_
+  * _The Well-Anchored One_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/Epiphanius/main/diglot/diglot-Ancoratus.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/Epiphanius/main/epub/epub-Ancoratus.pdf))
 * [Eusebius](https://github.com/AppianWayPress/Eusebius)
-  * _The Preparation of the Gospel_
-  * _The Proof of the Gospel_
-  * _History of the Church_
-  * _On Ecclesiastical Theology_
+  * _The Preparation of the Gospel_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/Eusebius/main/diglot/diglot-Preparation.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/Eusebius/main/epub/epub-Preparation.pdf))
+  * _The Proof of the Gospel_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/Eusebius/main/diglot/diglot-Demonstration.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/Eusebius/main/epub/epub-Demonstration.pdf))
+  * _History of the Church_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/Eusebius/main/diglot/diglot-HistoryChurch.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/Eusebius/main/epub/epub-HistoryChurch.pdf))
+  * _On Ecclesiastical Theology_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/Eusebius/main/diglot/diglot-EcclTheology.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/Eusebius/main/epub/epub-EcclTheology.pdf))
 * [Origen](https://github.com/AppianWayPress/Origen)
-  * _Against Celsus_
+  * _Against Celsus_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/Origen/main/diglot/diglot-ContraCelsus.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/Origen/main/epub/epub-ContraCelsus.pdf))
 
-The diglot and paperback editions of these volumes (so, not the epub editions) will have indexes as well:
+The diglot and (when available) paperback editions of these volumes (so, not the epub editions) will have indexes as well:
 
 * Index of Person Names
 * Index of National and Religious Groups
