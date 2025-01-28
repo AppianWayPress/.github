@@ -29,6 +29,7 @@ We're starting small because this is a bit of a complicated project. But we anti
   * _Acts of Thomas_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/diglot/diglot-ActaThomae.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-ActaThomae.epub))
 * [Clement of Alexandria](https://github.com/AppianWayPress/ClementAlexandria)
   * _Can the Rich Be Saved?_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/diglot/diglot-QuisDives.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/epub/epub-QuisDives.epub))
+  * _Excerpta ad Theodotus_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/diglot/diglot-Excerpta.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/epub/epub-Excerpta.epub))
 * [Clement of Rome](https://github.com/AppianWayPress/ClementRome)
   * _Pseudo-Clementine Homilies_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ClementRome/main/diglot/diglot-Homilies.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ClementRome/main/epub/epub-Homilies.epub))
 * [Epiphanius](https://github.com/AppianWayPress/Epiphanius)
