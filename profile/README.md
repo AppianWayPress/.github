@@ -30,6 +30,9 @@ We're starting small because this is a bit of a complicated project. But we anti
 * [Clement of Alexandria](https://github.com/AppianWayPress/ClementAlexandria)
   * _Can the Rich Be Saved?_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/diglot/diglot-QuisDives.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/epub/epub-QuisDives.epub))
   * _Excerpta ad Theodotus_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/diglot/diglot-Excerpta.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/epub/epub-Excerpta.epub))
+  * _Stromata_ ([ePub](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/epub/epub-Stromata.epub))
+  * _Protrepticus_ ([ePub](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/epub/epub-Protrepticus.epub))
+  * _Paedagogus_ ([ePub](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/epub/epub-Paedagogus.epub))
 * [Clement of Rome](https://github.com/AppianWayPress/ClementRome)
   * _Pseudo-Clementine Homilies_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ClementRome/main/diglot/diglot-Homilies.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ClementRome/main/epub/epub-Homilies.epub))
 * [Epiphanius](https://github.com/AppianWayPress/Epiphanius)
@@ -54,7 +57,6 @@ The diglot and (when available) paperback editions of these volumes (so, not the
 We anticipate more volumes. The following volumes are on our "short list" to evaluate:
 
 * Athenagoras’ _On the Resurrection of the Dead_
-* Epiphanius’ _Panarion_
 * Theophilus of Antioch’s _Ad Autolycum_
 
 ## Can works be suggested?
