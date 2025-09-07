@@ -48,18 +48,15 @@ We're starting small because this is a bit of a complicated project. But we anti
   * _On Ecclesiastical Theology_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/Eusebius/main/diglot/diglot-EcclTheology.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/Eusebius/main/epub/epub-EcclTheology.epub))
 * [Origen](https://github.com/AppianWayPress/Origen)
   * _Against Celsus_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/Origen/main/diglot/diglot-ContraCelsus.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/Origen/main/epub/epub-ContraCelsus.epub))
+* [Theophilus of Alexandria](https://github.com/AppianWayPress/TheophilusAlexandria)
+  * _Theodore to Autolycus_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/TheophilusAlexandria/main/diglot/diglot-AdAutolycum.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/TheodoreAlexandria/main/epub/epub-AdAutolycum.epub))
 
-The diglot and (when available) paperback editions of these volumes (so, not the epub editions) will have indexes as well:
+Some diglot editions of these volumes (so, not the epub editions) may have indexes as well:
 
 * Index of Person Names
 * Index of National and Religious Groups
 * Index of Places
 * Index of Bible References
-
-We anticipate more volumes. The following volumes are on our "short list" to evaluate:
-
-* Athenagoras’ _On the Resurrection of the Dead_
-* Theophilus of Antioch’s _Ad Autolycum_
 
 ## Can works be suggested?
 
