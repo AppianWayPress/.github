@@ -49,7 +49,7 @@ We're starting small because this is a bit of a complicated project. But we anti
 * [Origen](https://github.com/AppianWayPress/Origen)
   * _Against Celsus_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/Origen/main/diglot/diglot-ContraCelsus.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/Origen/main/epub/epub-ContraCelsus.epub))
 * [Theophilus of Alexandria](https://github.com/AppianWayPress/TheophilusAlexandria)
-  * _Theodore to Autolycus_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/TheophilusAlexandria/main/diglot/diglot-AdAutolycum.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/TheodoreAlexandria/main/epub/epub-AdAutolycum.epub))
+  * _Theodore to Autolycus_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/TheophilusAlexandria/main/diglot/diglot-AdAutolycum.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/TheophilusAlexandria/main/epub/epub-AdAutolycum.epub))
 
 Some diglot editions of these volumes (so, not the epub editions) may have indexes as well:
 
