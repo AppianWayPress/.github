@@ -22,6 +22,8 @@ We will also release reasonably-priced paperback editions of the translations (n
 
 We're starting small because this is a bit of a complicated project. But we anticipate our initial release to include the following in diglot and epub form. We're considering the possibility of paperbacks from Amazon:
 
+* [Anonymous](https://github.com/AppianWayPress/Anonymous)
+  * _Apostolic Constitutions_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/Anonymous/main/diglot/diglot-ApostolicConstitutions.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/Anonymous/main/epub/epub-ApostolicConstitutions.epub))
 * [Apocryphal Acts](https://github.com/AppianWayPress/ApocryphalActs)
   * _Acts of Barnabas_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/diglot/diglot-ActaBarnabae.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-ActaBarnabae.epub))
   * _Acts of John_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/diglot/diglot-ActaJoannis.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-ActaJoannis.epub))
