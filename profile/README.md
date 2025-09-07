@@ -29,6 +29,8 @@ We're starting small because this is a bit of a complicated project. But we anti
   * _Acts of John_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/diglot/diglot-ActaJoannis.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-ActaJoannis.epub))
   * _Acts of Philip_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/diglot/diglot-ActaPhilippi.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-ActaPhilippi.epub))
   * _Acts of Thomas_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/diglot/diglot-ActaThomae.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ApocryphalActs/main/epub/epub-ActaThomae.epub))
+* [Athenagoras](https://github.com/AppianWayPress/Athenagoras)
+  * _Works_ (including _A Plea for the Christians_ and _On the Resurrection_) ([diglot](https://raw.githubusercontent.com/AppianWayPress/Athenagoras/main/diglot/diglot-AthenagorasWorks.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/Athenagoras/main/epub/epub-AthenagorasWorks.epub))
 * [Clement of Alexandria](https://github.com/AppianWayPress/ClementAlexandria)
   * _Can the Rich Be Saved?_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/diglot/diglot-QuisDives.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/epub/epub-QuisDives.epub))
   * _Excerpta ad Theodotus_ ([diglot](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/diglot/diglot-Excerpta.pdf) | [epub](https://raw.githubusercontent.com/AppianWayPress/ClementAlexandria/main/epub/epub-Excerpta.epub))
